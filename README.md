@@ -4,7 +4,7 @@ Simple Flutter UI project
 
 ## Output
 
-![Screenshot_20240907_230000](https://github.com/user-attachments/assets/a66999f0-29c9-4241-8588-f510471f9460)
+![Screenshot_20240907_230000](https://github.com/user-attachments/assets/4d9c6d5d-a7f9-451f-9a06-8279dab066b8)
 
 
 
