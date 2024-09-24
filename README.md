@@ -1,16 +1,14 @@
 # assignment_1
 
-A new Flutter project.
+Simple Flutter UI project
 
-## Getting Started
+# Output
 
-This project is a starting point for a Flutter application.
+## Before Pressing Button
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/user-attachments/assets/d084af97-b723-45d7-8e5d-2fa11c153105" alt="Screenshot_20240907_230000" width="300"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## After Pressing Button
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/9ac03bfa-b7ad-4b67-bd7e-8c892b550dcb" width="300"/>
+
