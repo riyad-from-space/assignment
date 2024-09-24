@@ -1,6 +1,18 @@
+# assignment_2
+Flutter Project with :
+CheckBox,
+RadioButton,
+RatingBar,
+SeekBar,
+Switch
+# Output
+
+<img src="https://github.com/user-attachments/assets/8a049931-30f0-4b7f-8a96-4c8eb6538520" width="300"/>
+
 # assignment_1
 
-Simple Flutter UI project
+Simple Flutter UI 
+
 
 # Output
 
