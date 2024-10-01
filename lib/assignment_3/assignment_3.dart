@@ -32,7 +32,7 @@ class _NoteFormPageState extends State<Assignment3> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Beautiful Note Form',
+          'Note Form',
           style: TextStyle(
             fontWeight: FontWeight.bold,
             fontSize: 24,
