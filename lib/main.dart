@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'assignment_1/assignment_1.dart';
 import 'assignment_2/assignment_2.dart';
+import 'assignment_3/assignment_3.dart';
 
 
 void main() {
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home: SecondAssignment(),
+      home: Assignment3(),
     );
   }
 }
