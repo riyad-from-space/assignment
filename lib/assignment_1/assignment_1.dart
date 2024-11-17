@@ -105,7 +105,7 @@ class _MyHomePageState extends State<FirstAssignment> {
             ),
             SizedBox(height: 30),
 
-            // Customized Button with gradient
+
             Center(
               child: ElevatedButton(
                 onPressed: () {
